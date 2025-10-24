@@ -41,11 +41,12 @@ body {
 	margin: 10px 25px;
 }
 .whiskey {
-	background-image: url("images/whiskeysour.jpg");
+	background-image: url("recipes/images/whiskeysour.jpg");
 }
 .moscow {
-	background-image: url("images/moscowmule.jpg");
+	background-image: url("recipes/images/moscowmule.jpg");
 }
 .mojito {
-	background-image: url("images/mojito.jpg");
+	background-image: url("recipes/images/mojito.jpg");
+
 }
